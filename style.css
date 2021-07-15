@@ -87,7 +87,7 @@
     -moz-appearance: none;
     -o-appearance: none;
     appearance: none;
-    background: transparent;
+    background: #FFFFFF;
     border: 1px solid hsl(0, 0%, 82%);
     border-radius: 2px;
     margin: 0;
